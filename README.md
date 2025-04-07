@@ -1,3 +1,6 @@
+go to my first React App webpage deployed in GitHub:
+https://yeinflener.github.io/searchbar-react/
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
