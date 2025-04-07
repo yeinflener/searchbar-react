@@ -3,9 +3,13 @@
 }
 
 button {
-  width: 400px;
+  width: 200px;
+  color: orangered;
+  background-color: azure;
 }
 
 body {
-  background-color: bisque;
+  background-color: rgb(241, 234, 131);
+  display: flex;
+  justify-content: center;
 }
